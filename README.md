@@ -10,27 +10,21 @@ javac CP.java
 java CP
 >>> Please include two Strings as arguments.
 
-javac CP.java
 java CP test tes
 >>> Please include two Strings with the same length.
 
-javac CP.java
 java CP test test
 >>> Strings are permutations of each other.
 
-javac CP.java
 java CP test tset
 >>> Strings are permutations of each other.
 
-javac CP.java
 java CP test tess
 >>> Strings are not permutations of each other.
 
-javac CP.java
 java CP apple elppa
 >>> Strings are permutations of each other.
 
-javac CP.java
 java CP apple apppe
 >>> Strings are not permutations of each other.
 
